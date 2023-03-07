@@ -1,0 +1,46 @@
+Name: Reem Almijmaj
+USC ID: 3217747723
+News site crawled: wsj.com
+Number of threads: 16
+
+Fetch Statistics
+================
+# fetches attempted: 19994
+# fetches succeeded: 13107
+# fetches failed or aborted: 6887
+
+Outgoing URLs:
+==============
+Total URLs extracted: 3520895
+# unique URLs extracted: 1048575
+# unique URLs within News Site: 198211
+# unique URLs outside News Site: 850364
+
+Status Codes:
+=============
+200 OK: 13107
+301 Moved Permanently: 658
+302 Found: 14
+307 Temporary Redirect: 131
+308 Permanent Redirect: 1
+400 Bad Request: 2
+403 Forbidden: 5717
+404 Not Found: 209
+500 Internal Server Error: 113
+503 Service Unavailable: 2
+504 Gateway Timeout: 40
+
+File Sizes:
+===========
+< 1KB: 1
+1KB ~ <10KB: 174
+10KB ~ <100KB: 102
+100KB ~ <1MB: 11983
+>= 1MB: 823
+
+Content Types:
+==============
+text/html: 12879
+image/jpeg: 10
+image/png: 194
+
